@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning web develpment
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...
+- 📫 How to reach me https://bit.ly/39GjyDK
 
 <!---
 ImadO1/ImadO1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
